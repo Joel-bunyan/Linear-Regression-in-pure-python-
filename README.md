@@ -1,2 +1,2 @@
-# Linear-Regression-in-pure-python-
-Linear Regression algorithm in python
+# Neural-network-In-Python
+Coding a neural network in pure python
